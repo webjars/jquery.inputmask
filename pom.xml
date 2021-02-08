@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery.inputmask</artifactId>
-    <version>3.3.12-SNAPSHOT</version>
+    <version>5.0.5-SNAPSHOT</version>
     <name>jquery.inputmask</name>
     <description>WebJar for jquery.inputmask</description>
     <url>http://webjars.org</url>
