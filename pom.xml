@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery.inputmask</artifactId>
-    <version>5.0.9-SNAPSHOT</version>
+    <version>5.0.9</version>
     <name>jquery.inputmask</name>
     <description>WebJar for jquery.inputmask</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/jquery.inputmask</url>
         <connection>scm:git:https://github.com/webjars/jquery.inputmask.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery.inputmask.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery.inputmask-5.0.9</tag>
     </scm>
 
     <dependencies>
